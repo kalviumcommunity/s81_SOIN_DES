@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "bruno": "^0.0.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.10.1",
+    "nodemon": "^3.1.9"
+  },
+  "name": "s81_soin_des",
+  "version": "1.0.0",
+  "description": "'SOIN DES' is a pet care platform which the care takers will come to our place and they will check the pet health and they make our pets train.",
+  "main": "app.js",
+  "devDependencies": {
+    "coffee-script": "^1.3.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalviumcommunity/s81_SOIN_DES.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalviumcommunity/s81_SOIN_DES/issues"
+  },
+  "homepage": "https://github.com/kalviumcommunity/s81_SOIN_DES#readme"
+}
